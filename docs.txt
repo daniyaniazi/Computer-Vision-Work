@@ -1,0 +1,4 @@
+FPS = Frames per second. How many frames per second my hardware is able to process
+
+Fps totally depend upon your hardware.
+
